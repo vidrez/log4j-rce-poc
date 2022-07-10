@@ -1,4 +1,4 @@
-# log4j-shell-poc
+# log4j-rce-poc
 A Proof-Of-Concept python application for log4shell [CVE-2021-44228] vulnerability.
 Project originally forked from https://github.com/kozmer/log4j-shell-poc.
 
